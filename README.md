@@ -5,3 +5,5 @@
 # DevelopmentEnviloment
 - Microsoft Windows10Pro
 - Microsoft VisualStudio Code
+- UnityEditor 2022.3.19<p>
+&copy; 2024DeveloperUchida</p>
