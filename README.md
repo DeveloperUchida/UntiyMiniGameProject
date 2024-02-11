@@ -2,3 +2,6 @@
 # 引用 (Quote)
 - [効果音ラボ](https://soundeffect-lab.info/)<p>
 [sound effect lab](https://soundeffect-lab.info/)</p>
+# DevelopmentEnviloment
+- Microsoft Windows10Pro
+- Microsoft VisualStudio Code
