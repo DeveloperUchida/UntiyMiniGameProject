@@ -1,5 +1,5 @@
 # UntiyMiniGameProject
-# 引用 (Quote)
+# 音源引用 (SoundQuote)
 - [効果音ラボ](https://soundeffect-lab.info/)<p>
 [sound effect lab](https://soundeffect-lab.info/)</p>
 # DevelopmentEnviloment
