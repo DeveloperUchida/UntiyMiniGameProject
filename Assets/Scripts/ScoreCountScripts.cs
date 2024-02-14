@@ -1,4 +1,3 @@
-using System.Drawing;
 using UnityEngine;
 using UnityEngine.UI;
 public class ScoreCountScripts : MonoBehaviour
@@ -6,10 +5,17 @@ public class ScoreCountScripts : MonoBehaviour
     public Text textObj;
 
     private int Score;
-
-    public void AddScore(int Point)
+    void Start()
     {
-        Score += Point;
-        textObj.text = "" + Score;
+        Score = 0;
     }
+    void Update()
+    {
+        textObj.text = "現在の点数" + Score.ToString();
+    }
+    void OnMouseDown()
+    {
+        Score++;
+    }
+
 }
